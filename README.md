@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Halo semua! 
+
+Perkenalkan nama saya **Evan Benyamin**.<br>
+
+Saya seorang **Under Graduate** dari  [UNSOED](https://www.unsoed.ac.id/).<br>
+
+Saya tertarik dalam bidang web development dan juga data analytics ☺ <br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/evan-benyamin-5091ab228/)ku ya.
