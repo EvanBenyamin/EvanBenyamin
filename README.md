@@ -4,7 +4,7 @@ I am a <b>Fresh Graduate</b> from <a href = "https://www.unsoed.ac.id"><b>UNSOED
 <br>Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
 If you are interested you can contact me VIA <a href = "https://www.linkedin.com/in/evan-benyamin"><b>Linkedin</b></a>
 </div>
-<div id="experience" align = "center">
+<div id="experience">
    <h2> Experienced In </h2> 
    <img width ="52px" src = "https://github.com/user-attachments/assets/b54e7f58-bc17-4ecc-aca0-790fc8c8280b"/> 
    <img width ="52px" src = "https://github.com/user-attachments/assets/864941d3-b8e8-4e0f-b649-3ad03fc50b9e"/>
