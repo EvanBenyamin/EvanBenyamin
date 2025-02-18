@@ -14,11 +14,9 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
 </div> 
 <div id="social" align="center">
    <h2> Contact Me </h2> 
-   <a href = "https://www.linkedin.com/in/evan-benyamin"</a>
-   <img width ="52px" src ="https://github.com/user-attachments/assets/ca466415-e4a8-4a4f-b3c8-1387cca82f55"/>
+   <a href = "https://www.linkedin.com/in/evan-benyamin"> <img width ="52px" src ="https://github.com/user-attachments/assets/ca466415-e4a8-4a4f-b3c8-1387cca82f55"/></a>
    <a href = "https://www.instagram.com/evantobing09"> <img width ="52px" src ="https://github.com/user-attachments/assets/9b6f9b7a-2bf3-476b-9e34-583b08614819"/> 
    </a>
-   
    <a href = "mailto:evanbenyamin@gmail.com"><img width ="52px" src ="https://github.com/user-attachments/assets/95c6c093-2966-48a7-ba66-2282d28b6e20"/></a>
  
 <br>
