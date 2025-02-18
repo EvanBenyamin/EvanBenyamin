@@ -1,5 +1,5 @@
 <h1 align=center>Evan Benyamin's Github</h1> <br>
-<h3>I am a **Fresh Graduate** from <a href = "https://www.unsoed.ac.id">UNSOED</a>.</h3><br>
+<h3>I am a <b>Fresh Graduate</b> from <a href = "https://www.unsoed.ac.id">UNSOED</a>.</h3>
 Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
 If you are interested you can contact me VIA <a href = "https://www.linkedin.com/in/evan-benyamin">Linkedin</a>
 </div>
