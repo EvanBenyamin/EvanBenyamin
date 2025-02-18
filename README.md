@@ -15,7 +15,7 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
 <br>
 <div id = "cards">
    <a href="https://github.com/EvanBenyamin"></a>
-   <img height="200" align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBenyamin&layout=donut-vertical&theme=merko&custom_title=MyStatistics"/>
+   <img height="200" align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBenyamin&layout=donut-vertical&theme=merko"/>
    <img height="180" align = "center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvanBenyamin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
 
