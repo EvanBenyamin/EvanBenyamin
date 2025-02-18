@@ -4,7 +4,7 @@ I am a <b>Fresh Graduate</b> from <a href = "https://www.unsoed.ac.id"><b>UNSOED
 <br>Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
 If you are interested you can contact me VIA <a href = "https://www.linkedin.com/in/evan-benyamin"><b>Linkedin</b></a>
 </div>
-<div id="experience">
+<div id="experience" align="center">
    <h2> Experienced In </h2> 
    <img width ="52px" src = "https://github.com/user-attachments/assets/b54e7f58-bc17-4ecc-aca0-790fc8c8280b"/> 
    <img width ="52px" src = "https://github.com/user-attachments/assets/864941d3-b8e8-4e0f-b649-3ad03fc50b9e"/>
@@ -12,11 +12,17 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
    <img width ="56px" src = "https://github.com/user-attachments/assets/36123ba7-17c8-4506-b1bc-2c7e071bc5f7"/>
    <img width ="56px" src = "https://github.com/user-attachments/assets/efd86969-b30a-49dd-86af-c6c494656b19"/>
 </div> 
+<div id="social" align="center">
+   <h2> Contact Me </h2> 
+   <a href = "https://www.linkedin.com/in/evan-benyamin" <img width ="52px" src = "https://github.com/user-attachments/assets/1b12371c-c9a6-4bb6-8293-686b32e7e9dd"/> 
+   <img width ="52px" src = "https://github.com/user-attachments/assets/864941d3-b8e8-4e0f-b649-3ad03fc50b9e"/></a>
+</div> 
 <br>
 <div id = "cards">
    <a href="https://github.com/EvanBenyamin"></a>
    <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBenyamin&layout=donut-vertical&theme=merko"/>
    <img align = "center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvanBenyamin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
+ahttps://github.com/user-attachments/assets/1b12371c-c9a6-4bb6-8293-686b32e7e9dd
 
 
