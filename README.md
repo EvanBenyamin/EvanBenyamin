@@ -14,7 +14,7 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
 </div> 
 <div id="social" align="center">
    <h2> Contact Me </h2> 
-   <a href = "https://www.linkedin.com/in/evan-benyamin" <img width ="52px" <img src = "https://github.com/user-attachments/assets/0e219f69-9f4d-4b28-9998-d256bc1bc575"/></a> 
+   <a href = "https://www.linkedin.com/in/evan-benyamin" <img width ="52px" src = "https://github.com/user-attachments/assets/0e219f69-9f4d-4b28-9998-d256bc1bc575"/></a> 
 </div> 
 <br>
 <div id = "cards">
