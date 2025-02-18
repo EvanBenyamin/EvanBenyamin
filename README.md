@@ -7,6 +7,10 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
 <div id="experience" align = "center">
    <h2> Experienced In </h2> 
    <img width ="36px" src = "https://github.com/user-attachments/assets/b54e7f58-bc17-4ecc-aca0-790fc8c8280b"/> 
+   <img width ="36px" src = "https://github.com/user-attachments/assets/b54e7f58-bc17-4ecc-aca0-790fc8c8280b"/>
+   <img width ="36px" src = "https://github.com/user-attachments/assets/b54e7f58-bc17-4ecc-aca0-790fc8c8280b"/>
+   <img width ="36px" src = "https://github.com/user-attachments/assets/b54e7f58-bc17-4ecc-aca0-790fc8c8280b"/>
+   <img width ="36px" src = "https://github.com/user-attachments/assets/b54e7f58-bc17-4ecc-aca0-790fc8c8280b"/>
 </div> 
 <div id = "cards">
    <a href="https://github.com/EvanBenyamin"></a>
