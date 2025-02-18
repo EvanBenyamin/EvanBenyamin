@@ -21,8 +21,7 @@ If you are interested you can contact me VIA [Linkedin](https://www.linkedin.com
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/EvanBenyamin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvanBenyamin&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/EvanBenyamin/github-readme-stats"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvanBenyamin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBenyamin&layout=donut"/>
 </a>
 </p>
