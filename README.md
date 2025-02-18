@@ -1,4 +1,4 @@
-<h1 align=center>Evan Benyamin's Github ![image](https://github.com/user-attachments/assets/5ebc0f05-89af-4fe9-9c78-33f481e158e8)
+<h1 align=center>Evan Benyamin's Github ![image](https://github.com/user-attachments/assets/8310abe2-2f35-4de4-97a8-b830b609e9a5)
 </h1> <br>
 I am a <b>Fresh Graduate</b> from <a href = "https://www.unsoed.ac.id"><b>UNSOED</b></a>.
 <br>Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
