@@ -14,8 +14,7 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
 </div> 
 <div id="social" align="center">
    <h2> Contact Me </h2> 
-   <a href = "https://www.linkedin.com/in/evan-benyamin" <img width ="52px" src = "https://github.com/user-attachments/assets/1b12371c-c9a6-4bb6-8293-686b32e7e9dd"/> 
-   <img width ="52px" src = "https://github.com/user-attachments/assets/864941d3-b8e8-4e0f-b649-3ad03fc50b9e"/></a>
+   <a href = "https://www.linkedin.com/in/evan-benyamin" <img width ="52px" src = "https://github.com/user-attachments/assets/0e219f69-9f4d-4b28-9998-d256bc1bc575"/></a> 
 </div> 
 <br>
 <div id = "cards">
@@ -23,6 +22,7 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
    <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBenyamin&layout=donut-vertical&theme=merko"/>
    <img align = "center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvanBenyamin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
-ahttps://github.com/user-attachments/assets/1b12371c-c9a6-4bb6-8293-686b32e7e9dd
+
+
 
 
