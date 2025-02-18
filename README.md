@@ -5,7 +5,7 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
 </div>
 <p align="left">
 <a href="https://github.com/EvanBenyamin">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBenyamin&layout=donut-vertical&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvanBenyamin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img margin-top="2rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBenyamin&layout=donut-vertical&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvanBenyamin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </a>
 </p>
