@@ -4,7 +4,7 @@ I am a <b>Fresh Graduate</b> from <a href = "https://www.unsoed.ac.id"><b>UNSOED
 If you are interested you can contact me VIA <a href = "https://www.linkedin.com/in/evan-benyamin"><b>Linkedin</b></a>
 </div>
 <div> 
-   <h2> Experienced In </h2> 
+   <h2 align = "center"> Experienced In </h2> 
 </div>
    <a href="https://github.com/EvanBenyamin">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBenyamin&layout=donut-vertical&theme=merko"/>
