@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/14a98f6f-b002-47ec-b3fc-7dac40854c9a)
-
-<h1 align=center>Evan Benyamin's Github </h1> <br>
+<h1 align=center>Evan Benyamin's Github </h1> <img src = "https://github.com/user-attachments/assets/f34affb2-22f2-48e6-8329-1d551bc3722b"/>
+ <br>
 I am a <b>Fresh Graduate</b> from <a href = "https://www.unsoed.ac.id"><b>UNSOED</b></a>.
 <br>Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
 If you are interested you can contact me VIA <a href = "https://www.linkedin.com/in/evan-benyamin"><b>Linkedin</b></a>
