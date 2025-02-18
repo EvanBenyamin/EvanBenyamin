@@ -22,7 +22,7 @@ If you are interested you can contact me VIA [Linkedin](https://www.linkedin.com
 <p align="left">
 <a href="https://github.com/EvanBenyamin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvanBenyamin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EvanBenyamin&layout=compact&layout=compact&theme=tokyonight"/> -->
 </a>
 </p>
