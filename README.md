@@ -12,6 +12,15 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
    <img width ="56px" src = "https://github.com/user-attachments/assets/36123ba7-17c8-4506-b1bc-2c7e071bc5f7"/>
    <img width ="56px" src = "https://github.com/user-attachments/assets/efd86969-b30a-49dd-86af-c6c494656b19"/>
 </div> 
+<div id = "cards">
+   <a href="https://github.com/EvanBenyamin"></a>
+   <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBenyamin&layout=donut-vertical&theme=merko"/>
+   <img align = "center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvanBenyamin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+</div>
+
+<br>
+<br> 
+
 <div id="social" align="center">
    <h2> Contact Me </h2> 
    <a href = "https://www.linkedin.com/in/evan-benyamin"> <img width ="52px" src ="https://github.com/user-attachments/assets/ca466415-e4a8-4a4f-b3c8-1387cca82f55"/></a>
@@ -19,12 +28,7 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
    </a>
    <a href = "mailto:evanbenyamin@gmail.com"><img width ="52px" src ="https://github.com/user-attachments/assets/95c6c093-2966-48a7-ba66-2282d28b6e20"/></a>
  
-<br>
-<div id = "cards">
-   <a href="https://github.com/EvanBenyamin"></a>
-   <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBenyamin&layout=donut-vertical&theme=merko"/>
-   <img align = "center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvanBenyamin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-</div>
+
 
 
 
