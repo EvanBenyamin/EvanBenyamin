@@ -1,4 +1,4 @@
-<h1 align=center>Evan Benyamin's Github <img size = "240px" src = "https://github.com/user-attachments/assets/f34affb2-22f2-48e6-8329-1d551bc3722b"/> </h1>
+<h1 align=center>Evan Benyamin's Github <img width = "240px" src = "https://github.com/user-attachments/assets/f34affb2-22f2-48e6-8329-1d551bc3722b"/> </h1>
  <br>
 I am a <b>Fresh Graduate</b> from <a href = "https://www.unsoed.ac.id"><b>UNSOED</b></a>.
 <br>Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
