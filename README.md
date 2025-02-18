@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h1>Evan Benyamin's Github</h1>
 </div>
-<div>
-<p> I am a **Fresh Graduate** from [UNSOED](https://www.unsoed.ac.id/).</p><br>
+I am a **Fresh Graduate** from [UNSOED](https://www.unsoed.ac.id/).</p><br>
 Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
 If you are interested you can contact me VIA [Linkedin](https://www.linkedin.com/in/evan-benyamin)
 </div>
