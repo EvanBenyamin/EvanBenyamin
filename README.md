@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-#Evan Benyamin
+<h1>Evan Benyamin</h1>
 </div>
 I am a **Fresh Graduate** from [UNSOED](https://www.unsoed.ac.id/).<br>
 Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
