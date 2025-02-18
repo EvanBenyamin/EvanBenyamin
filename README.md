@@ -13,17 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Halo semua! 👋👋👋
+# Evan Benyamin 
+I am a **Fresh Graduate** from [UNSOED](https://www.unsoed.ac.id/).<br>
+Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
+If you are interested you can contact me VIA [Linkedin](https://www.linkedin.com/in/evan-benyamin)
 
-Perkenalkan nama saya **Evan Benyamin**.<br>
-
-Saya seorang **Under Graduate** dari  [UNSOED](https://www.unsoed.ac.id/).<br>
-
-Saya tertarik dalam bidang web development dan juga data analytics ☺ <br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/evan-benyamin-5091ab228/) ku ya.
-
-### Github Statistic
+### y Github Statistic
 <p align="left">
 <a href="https://github.com/EvanBenyamin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvanBenyamin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
