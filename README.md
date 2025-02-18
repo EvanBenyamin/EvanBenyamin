@@ -18,7 +18,7 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
    <img width ="52px" src ="https://github.com/user-attachments/assets/ca466415-e4a8-4a4f-b3c8-1387cca82f55"/>
    <a href = "https://www.instagram.com/evantobing09"></a>
    <img width ="52px" src ="https://github.com/user-attachments/assets/9b6f9b7a-2bf3-476b-9e34-583b08614819"/>
-   <a href = mailto:evanbenyamin@gmail.com">Hello Evan!👋🏻</a>>
+   <a href = mailto:evanbenyamin@gmail.com">Hello Evan!👋🏻</a>
    <img width ="52px" src ="https://github.com/user-attachments/assets/95c6c093-2966-48a7-ba66-2282d28b6e20"/>
 <br>
 <div id = "cards">
