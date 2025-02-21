@@ -1,4 +1,4 @@
-<h1 align=center>Evan Benyamin's Github <img width = "55px" src = "https://github.com/user-attachments/assets/7fc8a7ed-e45a-4905-8397-b972f5334f87"/> </h1>
+<h1 align=center id = 'header'></h1>
  <br>
 I am a <b>Fresh Graduate</b> from <a href = "https://www.unsoed.ac.id"><b>UNSOED</b></a>.
 <br>Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
@@ -33,9 +33,19 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
    <a href = "mailto:evanbenyamin@gmail.com"><img width ="52px" src ="https://github.com/user-attachments/assets/95c6c093-2966-48a7-ba66-2282d28b6e20"/></a>
  
 
+<script>
+var i = 0;
+var txt = 'Evan Benyamin's Github <img width = "55px" src = "https://github.com/user-attachments/assets/7fc8a7ed-e45a-4905-8397-b972f5334f87"/>';
+var speed = 50;
 
-
-
+function typeWriter() {
+  if (i < txt.length) {
+    document.querySelector('#header').innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+</script>
 
 
 
