@@ -35,7 +35,7 @@ If you are interested you can contact me VIA <a href = "https://www.linkedin.com
 
 <script>
 var i = 0;
-var txt = 'Evan Benyamin's Github <img width = "55px" src = "https://github.com/user-attachments/assets/7fc8a7ed-e45a-4905-8397-b972f5334f87"/>';
+var txt = 'Evan Benyamin Github <img width = "55px" src = "https://github.com/user-attachments/assets/7fc8a7ed-e45a-4905-8397-b972f5334f87"/>';
 var speed = 50;
 
 function typeWriter() {
