@@ -1,6 +1,5 @@
 <h1 align = 'center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=0ECF8D&width=435&lines=Welcome+to+Evan's+Github+Page!" alt="Typing SVG" /></a>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=33&pause=1000&color=0ECF8D&width=458&height=100&lines=WELCOME+TO+EVAN'S+PAGE!;LET'S+GET+CONNECTED!" alt="Typing SVG" /></a>
  <br>
 I am a <b>Fresh Graduate</b> from <a href = "https://www.unsoed.ac.id"><b>UNSOED</b></a>.
 <br>Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
