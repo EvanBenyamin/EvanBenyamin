@@ -1,4 +1,18 @@
-<h1 align=center id = 'header'>Evan Benyamin Github <img width = "55px" src = "https://github.com/user-attachments/assets/7fc8a7ed-e45a-4905-8397-b972f5334f87"/></h1>
+<script>
+var i = 0;
+var txt = 'Evan Benyamin Github';
+var speed = 50;
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+</script>
+
+<h1 onload="typeWriter()" align=center id = 'header'>/></h1>
  <br>
 I am a <b>Fresh Graduate</b> from <a href = "https://www.unsoed.ac.id"><b>UNSOED</b></a>.
 <br>Currently focusing on my web development, web automation skills and Artificial Inteligence<br>
