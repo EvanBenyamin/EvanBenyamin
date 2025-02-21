@@ -1,5 +1,5 @@
-<h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Evan's+Github+Page" alt="Typing SVG" /></a>
+<h1 align = 'center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=0ECF8D&width=435&lines=Welcome+to+Evan's+Github+Page" alt="Typing SVG" /></a>
 </h1>
  <br>
 I am a <b>Fresh Graduate</b> from <a href = "https://www.unsoed.ac.id"><b>UNSOED</b></a>.
